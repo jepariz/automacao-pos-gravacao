@@ -26,7 +26,9 @@ Dentro da pasta onde são salvos os vídeos gravados pelo OBS, crie uma pasta pa
 
 __________________________________________________________________________________________________________________________________
 
-## Para rodar o código, digite no terminal python gerar_unidade_completa.py
+## Para rodar o código, digite no terminal: 
+
+python gerar_unidade_completa.py
 
 No terminal vai chegar uma msg pra vc digitar qual é o ID da unidade. Depois, ele vai processar cada um dos vídeos, enviar para a IA e quando terminar o MD com as atividades será salvo na pasta da unidade dentro do OneDrive :)
 
